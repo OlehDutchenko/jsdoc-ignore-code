@@ -14,6 +14,7 @@ exports.handlers = {
 	beforeParse: function(e) {
 		// ignore dynamic import()
 		if (config.dynamicImports !== false) {
+			// change import() to _import()
 			e.source = e.source.replace(/(^|\n)(\s|\t)*(import)(\s|\t)*\(/, function(str) {
 				return str.replace(/import/, '_import');
 			});

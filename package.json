@@ -1,6 +1,6 @@
 {
   "name": "jsdoc-ignore-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ignore part of code which can fail your process of documentation creation",
   "main": "index.js",
   "scripts": {

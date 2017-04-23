@@ -1,9 +1,9 @@
 # jsdoc-ignore-code
 
-Ignore part of code which can fail your 
-
 ![jsdoc3](https://img.shields.io/badge/JSDoc3-plugin-blue.svg)
 ![license](https://img.shields.io/badge/License-MIT-orange.svg)
+
+Ignore part of code which can fail your 
 
 For example, using `import()` – dynamically importing ES modules will fail your process of documentation creation
 
