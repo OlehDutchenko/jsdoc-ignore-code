@@ -1,0 +1,26 @@
+{
+  "name": "jsdoc-ignore-code",
+  "version": "1.0.0",
+  "description": "ignore part of code which can fail your process of documentation creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dutchenkoOleg/jsdoc-ignore-code.git"
+  },
+  "keywords": [
+    "jsdoc",
+    "async",
+    "import",
+    "ignore",
+    "error"
+  ],
+  "author": "Oleg Dutchenko <dutchenko.o.wezom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dutchenkoOleg/jsdoc-ignore-code/issues"
+  },
+  "homepage": "https://github.com/dutchenkoOleg/jsdoc-ignore-code#readme"
+}
